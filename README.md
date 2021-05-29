@@ -1,4 +1,4 @@
-# MAPPATURA-DEL-LAVORO-CULTURALE-IN-VENETO
+# Mappatura del lavoro culturale in veneto
 open data release of 2021 CCI survey for the Veneto region, Italy
 
 Questo lavoro di ricerca è stato condotto all’interno del Laboratorio di Management dell’Arte e della Cultura del Dipartimento di Management dell’Università Ca’ Foscari, il centro studi che da circa un decennio si occupa di studiare il mondo dell’arte e della cultura, unendo ad un’ottica manageriale ed economica la consapevolezza delle modalità specifiche attraverso cui la cultura si produce e diffonde. Con questo intervento si è tentato di prendere le distanze dall’ormai tradizionale discorso sull’importanza della cultura e della creatività, evocate molto spesso per la loro capacità di generare valore e benefici, ma di cui sappiamo molto poco rispetto ad altri settori economici. 
