@@ -1,0 +1,57 @@
+{
+    "produzione": [
+        "Arti Visive",
+        "Artigianato Artistico",
+        "Costumi",
+        "Danza",
+        "Direzione Orchestra / Coro",
+        "Disegno / Comics",
+        "Game Art",
+        "Musica",
+        "Produzione Cinematografica",
+        "Regia",
+        "Sceneggiatura",
+        "Scenografia",
+        "Scrittura",
+        "Spettacolo Itinerante",
+        "Teatro / Performance",
+        "Video / Film Making"
+    ],
+    "organizzazione": [
+        "Gestione Istituzione culturale",
+        "Gestione struttura / associazione spettacolo dal vivo",
+        "Gestione sale cinematografiche",
+        "Gestione spazi polifunzionali",
+        "Curatela e/o organizzazione di mostre"
+    ],
+    "educazione": [
+        "Laboratori con le scuole",
+        "Corsi destinati alle aziende",
+        "Laboratori in Istituzioni culturali",
+        "Corsi individuali / destinati a privati"
+    ],
+    "promozione": [
+        "Cicli di conferenze",
+        "Presentazioni / Premi letterari",
+        "Incontri / Seminari",
+        "Indagini / Studi / Pubblicazioni",
+        "Agente / Gallerista"
+    ],
+    "supporto": [
+        "Attrezzista",
+        "Doppiaggio",
+        "Effetti speciali",
+        "Fornitura servizi museali",
+        "Light designer",
+        "Macchinista",
+        "Montaggio",
+        "Restauro",
+        "Rigger",
+        "Servizi biglietteria",
+        "Servizi ristorazione",
+        "Supporto tecnico alla regia",
+        "Tecnico del suono",
+        "Tecnico di scena",
+        "Truccatore"
+    ]
+}
