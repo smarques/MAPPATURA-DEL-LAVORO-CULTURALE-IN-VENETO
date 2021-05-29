@@ -1,0 +1,398 @@
+,anagrafica.ind_assoc,anagrafica.provincia,anagrafica.data,anagrafica.formaGiuridica,anagrafica.titoloStudio,anagrafica.mobilitati,anagrafica.dipendenti,anagrafica.altro_lavoro,anagrafica.comune,anni_di_attivita,anagrafica.perc_reddito,anagrafica.perc_tempo,organizzazione,produzione,supporto,promozione,educazione
+0,individuo,VE,2018-12-14,contr_tempo_indeterminato,master_phd,0,0,scuola,Venezia,3,63,44,0,0,0,0,1
+1,individuo,VR,2020-09-17,socio_coop,master_phd,,,no,Badia Calavena,1,,,0,0,1,0,0
+2,individuo,VI,1961-05-29,socio_coop,diploma,,,no,Vicenza,60,,,0,0,1,0,0
+3,associazione,VI,2018-02-18,ass_riconosciuta,non compilato,0,0,no,Schio,3,,,1,0,0,0,0
+4,individuo,VE,1995-11-27,prest_occasionale,laurea_II,,,professionista,Venezia,26,66,73,0,1,0,1,0
+5,individuo,PD,1980-10-12,prest_occasionale,master_phd,,,manifatturiero,Padova,41,84,74,1,1,0,1,1
+6,individuo,VE,1979-07-23,prest_occasionale,diploma,,,no,Venezia,42,,,1,1,1,1,0
+7,individuo,VR,1989-02-04,partita_iva,master_phd,,,professionista,San Martino Buon Albergo,32,100,100,0,0,0,1,0
+8,associazione,TV,2011-12-31,ass_riconosciuta,laurea_II,0,3,no,Treviso,10,,,1,0,0,0,0
+9,individuo,VE,1978-05-17,prest_occasionale,laurea_II,,,professionista,Venezia,43,20,100,0,1,0,0,0
+10,individuo,VI,1961-07-14,socio_coop,diploma,,,no,Vicenza,60,,,0,0,1,0,0
+11,individuo,VI,1961-10-12,socio_coop,diploma,,,no,Vicenza,60,,,0,1,1,0,1
+12,individuo,VI,1982-07-22,partita_iva,laurea_II,,,no,Vicenza,39,,,1,0,0,0,0
+13,individuo,RO,1975-12-28,socio_coop,laurea_II,,,scuola,Rovigo,46,70,50,0,1,0,0,1
+14,individuo,VE,1974-05-26,socio_coop,diploma,,,no,Salzano,47,,,0,1,0,0,0
+15,individuo,VE,31/05/1978,prest_occasionale,laurea_II,,,no,Venezia,43,,,0,1,0,0,0
+16,individuo,VE,1995-09-20,prest_occasionale,laurea_II,,,no,Venezia,26,,,0,1,0,0,1
+17,individuo,VI,1992-08-10,prest_occasionale,laurea_II,,,servizi,Marano Vicentino,29,80,50,1,0,0,0,0
+18,individuo,PD,1976-03-21,socio_coop,diploma,,,no,Padova,45,,,0,0,1,0,0
+19,individuo,PD,1981-09-08,partita_iva,laurea_II,,,scuola,Albignasego,40,100,100,0,1,0,0,0
+20,individuo,PD,1990-06-25,socio_coop,laurea_I,,,no,Padova,31,,,0,1,0,0,0
+21,individuo,PD,1980-07-28,prest_occasionale,laurea_II,,,no,Padova,41,,,0,1,0,0,0
+22,associazione,VI,2020-07-10,ass_riconosciuta,non compilato,0,0,no,Schio,1,,,1,0,0,0,0
+23,individuo,PD,1981-09-20,co_co_co,laurea_I,,,no,Padova,40,,,0,1,0,0,0
+24,individuo,TV,1995-01-24,socio_coop,diploma,,,no,Conegliano,26,,,0,1,0,0,0
+25,associazione,VE,2016,ass_non_riconosciuta,non compilato,8,0,no,Venezia,5,,,0,1,0,0,0
+26,individuo,PD,1967-03-13,prest_occasionale,diploma,,,no,Padova,54,,,0,1,0,0,0
+27,individuo,VI,1984-01-06,partita_iva,diploma,,,professionista,Chiuppano,37,20,45,1,0,0,1,0
+28,individuo,TV,1983-09-25,partita_iva,laurea_I,,,professionista,Colle Umberto,38,100,100,1,1,0,0,1
+29,individuo,RO,1970-08-09,partita_iva,diploma,,,no,Rovigo,51,,,0,1,0,0,0
+30,individuo,VE,1980-01-03,partita_iva,master_phd,,,scuola,Mira,41,85,72,0,1,0,0,1
+31,associazione,RO,1999-01-18,ass_non_riconosciuta,non compilato,0,0,no,Villanova del Ghebbo,22,,,1,0,0,0,0
+32,associazione,VI,2005-01-01,onlus,non compilato,4,2,no,Vicenza,16,,,1,0,0,0,0
+33,individuo,VI,1991-01-22,socio_coop,laurea_I,,,no,Rossano Veneto,30,,,0,1,0,0,0
+34,associazione,VI,2010-04-25,ass_non_riconosciuta,non compilato,6,0,no,Valdagno,11,,,1,1,0,0,1
+35,individuo,PD,1997-03-31,prest_occasionale,laurea_I,,,no,Padova,24,,,1,0,0,1,0
+36,associazione,TV,2007-05-31,ass_riconosciuta,non compilato,0,3,no,Treviso,14,,,1,0,0,1,1
+37,individuo,VR,1982-04-09,socio_coop,diploma,,,no,Legnago,39,,,0,1,1,0,0
+38,associazione,VR,2015-05-01,ass_riconosciuta,non compilato,10,0,no,Legnago,6,,,1,0,0,0,1
+39,individuo,TV,07-05-1959,prest_occasionale,diploma,,,no,Casale sul Sile,62,,,1,1,0,0,1
+40,individuo,VI,1965-08-17,prest_occasionale,laurea_II,,,professionista,Bassano del Grappa,56,25,50,0,1,0,0,0
+41,associazione,PD,2004-10-14,ass_riconosciuta,non compilato,3,1,no,Padova,17,,,1,0,0,1,1
+42,associazione,PD,2016-02-12,ass_non_riconosciuta,non compilato,0,0,scuola,Padova,5,69,40,1,1,0,1,1
+43,individuo,PD,2020-10-14,socio_coop,diploma,,,no,Pozzonovo,1,,,0,0,1,0,0
+44,individuo,VE,1977-05-22,socio_coop,master_phd,,,no,Venezia,44,,,0,1,0,0,0
+45,associazione,TV,2017,soc_scopo_lucro,non compilato,12,1,no,Treviso,4,,,1,0,0,0,0
+46,individuo,TV,1961-09-26,prest_occasionale,diploma,,,no,Casale sul Sile,60,,,0,1,0,0,0
+47,individuo,TV,1982-03-04,partita_iva,laurea_II,,,no,Treviso,39,,,0,1,0,0,0
+48,individuo,TV,1961-07-17,socio_coop,diploma,,,no,Vittorio Veneto,60,,,1,1,0,1,1
+49,associazione,PD,1998-11-10,ass_riconosciuta,non compilato,7,0,no,Padova,23,,,1,1,0,0,1
+50,individuo,VE,1967-04-14,co_co_co,laurea_II,,,servizi,Venezia,54,55,90,1,0,1,1,1
+51,individuo,PD,1988-03-16,prest_occasionale,laurea_II,,,servizi,Loreggia,33,74,70,0,1,0,0,0
+52,associazione,PD,2007-09-15,ass_riconosciuta,non compilato,17,1,no,Piove di Sacco,14,,,1,0,0,0,0
+53,individuo,PD,1993-03-07,partita_iva,laurea_II,,,no,Padova,28,,,1,0,0,1,0
+54,individuo,VI,1982-08-18,prest_occasionale,diploma,,,scuola,Pedemonte,39,20,90,0,1,0,0,0
+55,individuo,PD,1971-09-25,partita_iva,laurea_II,,,no,Padova,50,,,0,1,0,0,1
+56,individuo,VI,1988-01-17,partita_iva,laurea_I,,,professionista,Zugliano,33,70,50,0,0,0,1,0
+57,individuo,PD,1982-02-18,socio_coop,laurea_I,,,no,Padova,39,,,0,1,1,0,0
+58,individuo,TV,1978-06-04,partita_iva,laurea_II,,,servizi,Oderzo,43,0,0,0,1,1,0,0
+59,individuo,VE,1992-10-09,partita_iva,laurea_II,,,no,Venezia,29,,,0,1,0,0,0
+60,individuo,PD,1983-11-04,prest_occasionale,master_phd,,,servizi,Padova,38,70,70,0,1,0,0,0
+61,individuo,PD,1997-03-26,prest_occasionale,laurea_I,,,servizi,Cittadella,24,25,25,0,1,0,0,0
+62,individuo,TV,1987-03-12,partita_iva,laurea_II,,,no,Casale sul Sile,34,,,1,1,0,1,1
+63,individuo,VE,1967-05-11,prest_occasionale,diploma,,,no,Venezia,54,,,0,1,0,0,0
+64,associazione,TV,2015-07-03,soc_scopo_lucro,non compilato,0,1,no,Treviso,6,,,0,1,0,0,0
+65,associazione,VI,2013-05-02,soc_scopo_lucro,non compilato,0,4,no,Vicenza,8,,,0,0,0,0,1
+66,associazione,BL,1966-01-01,ass_non_riconosciuta,non compilato,0,0,no,Santo Stefano di Cadore,55,,,0,1,0,0,0
+67,individuo,VE,1978-05-27,partita_iva,master_phd,,,no,Martellago,43,,,1,0,0,0,0
+68,individuo,VE,1967-07-03,partita_iva,diploma,,,no,Venezia,54,,,0,1,0,0,1
+69,associazione,VE,1967-09-28,ass_non_riconosciuta,non compilato,0,0,no,Venezia,54,,,0,0,0,1,0
+70,individuo,VE,11/10/1963,partita_iva,diploma,,,no,Venezia,58,,,1,0,0,0,0
+71,individuo,VE,1985-03-15,prest_occasionale,laurea_II,,,servizi,Venezia,36,10,50,0,1,0,0,0
+72,individuo,PD,31/08/1975,socio_coop,laurea_II,,,no,Padova,46,,,0,1,0,0,0
+73,individuo,PD,1969-01-12,socio_coop,diploma,,,no,Rubano,52,,,0,1,0,0,0
+74,individuo,PD,1975-07-28,contr_tempo_indeterminato,laurea_I,,,no,Padova,46,,,1,0,0,0,0
+75,individuo,PD,07-11-2014,partita_iva,laurea_II,,,no,Loreggia,7,,,1,1,1,1,0
+76,associazione,VE,1991-11-15,ass_riconosciuta,non compilato,9,2,no,Venezia,30,,,0,1,0,0,0
+77,associazione,VE,1991-11-15,ass_riconosciuta,non compilato,3,2,no,Venezia,30,,,1,0,0,0,0
+78,associazione,VI,2010-12-10,fondazione,non compilato,0,7,no,Vicenza,11,,,0,0,0,1,0
+79,associazione,VI,2000-10-01,ass_non_riconosciuta,non compilato,0,1,no,Asiago,21,,,1,0,0,1,1
+80,individuo,VI,1980-06-20,prest_occasionale,diploma,,,no,Vicenza,41,,,0,1,0,0,0
+81,associazione,VE,1995-07-14,ass_non_riconosciuta,non compilato,0,0,no,Noventa di Piave,26,,,0,0,0,0,1
+82,associazione,PD,1903,ass_riconosciuta,non compilato,0,1,no,Padova,118,,,0,0,0,1,0
+83,individuo,VE,1945-12-30,socio_coop,laurea_II,,,professionista,Venezia,76,10,24,0,0,1,0,0
+84,associazione,TV,2011-07-01,ass_non_riconosciuta,non compilato,0,0,no,Treviso,10,,,1,1,0,0,1
+85,associazione,VR,1994-12-13,ass_non_riconosciuta,non compilato,0,14,no,Verona,27,,,1,0,0,0,0
+86,individuo,VE,1980-08-08,partita_iva,master_phd,,,professionista,Venezia,41,1,60,0,0,0,1,0
+87,associazione,BL,1973-08-02,ass_riconosciuta,non compilato,0,1,no,Cencenighe Agordino,48,,,1,0,0,0,0
+88,individuo,RO,1969-11-16,partita_iva,diploma,,,no,Crespino,52,,,0,0,1,0,0
+89,associazione,VR,2005,fondazione,non compilato,3,7,no,Verona,16,,,1,0,0,1,0
+90,associazione,TV,1988,ass_non_riconosciuta,non compilato,10,3,no,Castelfranco Veneto,33,,,1,0,0,0,0
+91,associazione,VI,1964-01-13,ass_riconosciuta,non compilato,0,2,no,Vicenza,57,,,1,0,0,1,0
+92,individuo,PD,1957-05-10,partita_iva,laurea_II,,,no,Padova,64,,,0,1,0,0,0
+93,individuo,VI,1979-04-03,socio_coop,laurea_II,,,no,Altavilla Vicentina,42,,,1,0,0,1,1
+94,associazione,PD,1957,ass_non_riconosciuta,non compilato,250,2,no,Padova,64,,,1,0,0,0,0
+95,associazione,RO,2018-04-17,onlus,non compilato,4,6,no,Rovigo,3,,,0,0,0,1,1
+96,associazione,TV,2016-01-01,ass_non_riconosciuta,non compilato,0,0,no,Oderzo,5,,,1,0,0,1,0
+97,individuo,PD,1990-09-24,prest_occasionale,laurea_I,,,no,Padova,31,,,0,1,1,0,0
+98,individuo,BL,03-03-1953,partita_iva,diploma,,,professionista,Cortina d'Ampezzo,68,90,91,1,0,0,0,0
+99,individuo,TV,1958-05-06,contr_tempo_indeterminato,diploma,,,pa,Maserada sul Piave,63,100,100,0,0,0,0,1
+100,individuo,RO,1983-02-12,prest_occasionale,laurea_I,,,no,Loreo,38,,,0,1,0,0,0
+101,associazione,VR,2003,onlus,non compilato,10,0,no,Verona,18,,,0,1,0,0,0
+102,associazione,VE,2014-09-18,ass_non_riconosciuta,non compilato,0,0,no,Venezia,7,,,1,0,0,0,0
+103,individuo,BL,1988-12-29,socio_coop,diploma,,,pa,Alpago,33,53,45,0,0,0,1,0
+104,associazione,PD,1998-01-01,ass_non_riconosciuta,non compilato,0,2,no,Padova,23,,,1,0,0,0,0
+105,individuo,VI,1983-01-07,contr_tempo_indeterminato,laurea_I,,,no,Schio,38,,,1,0,0,0,0
+106,individuo,VI,1974-10-10,partita_iva,diploma,,,no,Arzignano,47,,,0,1,0,0,0
+107,individuo,VE,1989-09-29,prest_occasionale,laurea_II,,,no,Campolongo Maggiore,32,,,0,1,0,0,0
+108,associazione,TV,1995-09-15,ass_riconosciuta,non compilato,12,0,no,Castelfranco Veneto,26,,,0,0,0,0,1
+109,associazione,BL,2009-06-18,onlus,non compilato,0,1,no,Canale d'Agordo,12,,,1,0,0,1,0
+110,associazione,PD,2009-09-23,ass_non_riconosciuta,non compilato,0,0,no,Limena,12,,,1,1,0,0,1
+111,associazione,PD,2011-09-27,ass_non_riconosciuta,non compilato,0,0,no,Carceri,10,,,0,0,0,1,0
+112,individuo,BL,1995-12-01,prest_occasionale,diploma,,,scuola,Comelico Superiore,26,0,53,1,0,0,0,0
+113,individuo,TV,1970-08-07,socio_coop,diploma,,,no,Paese,51,,,1,1,0,1,1
+114,individuo,VI,1967-11-07,prest_occasionale,laurea_II,,,no,Roana,54,,,1,0,0,0,0
+115,individuo,TV,1967-11-29,contr_tempo_indeterminato,master_phd,,,no,Conegliano,54,,,1,0,0,1,1
+116,individuo,TV,1969-04-23,partita_iva,diploma,,,no,Asolo,52,,,1,0,0,1,1
+117,individuo,VI,1976-03-20,prest_occasionale,laurea_II,,,pa,Vicenza,45,30,30,1,1,1,0,0
+118,individuo,PD,24/05/1988,prest_occasionale,laurea_I,,,professionista,Battaglia Terme,33,100,93,1,1,0,0,0
+119,associazione,TV,2002-11-13,ass_non_riconosciuta,non compilato,0,0,no,Conegliano,19,,,1,0,0,0,1
+120,individuo,PD,1984-02-29,contr_tempo_indeterminato,laurea_I,,,pa,Trebaseleghe,37,25,40,1,0,0,1,0
+121,associazione,TV,2019-05-26,ass_non_riconosciuta,non compilato,0,0,no,Vittorio Veneto,2,,,1,0,0,0,0
+122,associazione,VE,1949-12-19,fondazione,non compilato,20,4,no,Venezia,72,,,1,0,0,0,0
+123,associazione,TV,2013-05-04,ass_non_riconosciuta,non compilato,0,0,no,San Biagio di Callalta,8,,,0,1,0,1,1
+124,associazione,VI,2005-05-27,onlus,non compilato,3,2,no,Vicenza,16,,,1,0,0,0,0
+125,individuo,VI,1957-01-28,partita_iva,diploma,,,no,Breganze,64,,,0,0,0,1,0
+126,individuo,VI,27/12/93,contr_tempo_indeterminato,laurea_II,,,no,Monticello Conte Otto,28,,,1,1,0,0,0
+127,individuo,VI,1991-04-17,partita_iva,master_phd,,,manifatturiero,Vicenza,30,80,50,1,1,0,0,1
+128,individuo,TV,1970-06-19,partita_iva,diploma,,,servizi,Montebelluna,51,100,80,0,0,0,1,1
+129,associazione,TV,2020-10-27,fondazione,non compilato,0,0,no,Revine Lago,1,,,1,1,0,0,1
+130,individuo,PD,1973-03-10,partita_iva,laurea_II,,,no,Padova,48,,,0,1,0,0,1
+131,associazione,VE,1991-09-30,soc_scopo_lucro,non compilato,20,0,no,Venezia,30,,,1,0,0,0,0
+132,individuo,VE,1981-01-17,socio_coop,laurea_II,,,no,Dolo,40,,,1,0,0,0,0
+133,associazione,VR,2015-10-23,ass_riconosciuta,non compilato,0,0,no,Verona,6,,,1,1,1,1,0
+134,individuo,TV,1988-02-07,prest_occasionale,diploma,,,manifatturiero,Montebelluna,33,56,54,0,1,0,0,0
+135,associazione,TV,2017-01-01,ass_riconosciuta,non compilato,10,0,no,Vittorio Veneto,4,,,1,0,0,0,0
+136,associazione,BL,2012-07-01,ass_non_riconosciuta,non compilato,30,2,no,Belluno,9,,,1,0,0,0,0
+137,associazione,PD,27/01/2003,soc_scopo_lucro,non compilato,0,0,no,Pernumia,18,,,1,1,0,0,0
+138,associazione,TV,2013-07-03,ass_non_riconosciuta,non compilato,0,0,no,Santa Lucia di Piave,8,,,0,1,0,0,0
+139,associazione,VE,1987-06-10,ass_non_riconosciuta,non compilato,0,0,no,Venezia,34,,,0,1,0,0,0
+140,individuo,PD,1975-11-16,partita_iva,master_phd,,,no,Rubano,46,,,0,1,0,0,0
+141,associazione,VI,2011-11-22,ass_riconosciuta,non compilato,0,0,no,Malo,10,,,0,0,0,0,1
+142,individuo,VR,1989-02-04,partita_iva,master_phd,,,professionista,San Martino Buon Albergo,32,100,100,0,0,0,1,0
+143,associazione,VI,2019-03-25,ass_non_riconosciuta,non compilato,0,0,no,Malo,2,,,0,0,0,1,1
+144,associazione,TV,2013-08-01,ass_riconosciuta,non compilato,50,0,no,Vittorio Veneto,8,,,1,1,0,1,1
+145,associazione,VI,2012-10-25,ass_non_riconosciuta,non compilato,0,0,no,Malo,9,,,1,1,0,1,1
+146,associazione,VR,21/01/1981,ass_non_riconosciuta,non compilato,0,1,no,Verona,40,,,1,0,0,0,0
+147,individuo,VR,1982-08-10,partita_iva,laurea_I,,,no,San Giovanni Lupatoto,39,,,1,0,0,0,0
+148,individuo,VE,1960-02-29,prest_occasionale,laurea_II,,,scuola,Portogruaro,61,1,32,0,1,0,0,1
+149,associazione,VI,1988,ass_non_riconosciuta,diploma,30,8,no,Vicenza,33,,,0,1,0,0,0
+150,associazione,RO,1987-02-28,ass_riconosciuta,non compilato,12,7,no,Rovigo,34,,,1,1,0,0,0
+151,associazione,VI,2008-01-10,ass_riconosciuta,non compilato,0,0,no,Malo,13,,,0,0,0,1,0
+152,associazione,VE,2007-04-03,ass_riconosciuta,laurea_II,0,0,no,Venezia,14,,,1,0,0,0,1
+153,individuo,PD,1964-03-05,socio_coop,diploma,,,no,Due Carrare,57,,,0,1,0,0,0
+154,associazione,PD,2005-02-01,ass_non_riconosciuta,non compilato,0,2,no,Monselice,16,,,1,0,0,1,0
+155,associazione,PD,2017-09-21,ass_riconosciuta,non compilato,0,0,no,Villa del Conte,4,,,1,1,0,0,1
+156,associazione,VR,1999-12-05,ass_non_riconosciuta,non compilato,6,2,no,Verona,22,,,0,1,0,0,0
+157,associazione,VI,1999-01-01,ass_riconosciuta,non compilato,5,0,no,Marostica,22,,,1,1,1,1,1
+158,individuo,VE,1986-08-08,partita_iva,laurea_I,,,no,Venezia,35,,,0,0,1,0,0
+159,associazione,VI,2016-12-27,onlus,non compilato,0,0,no,Malo,5,,,0,1,0,0,0
+160,associazione,VE,2012-11-10,ass_non_riconosciuta,non compilato,0,0,no,Portogruaro,9,,,1,1,0,0,1
+161,associazione,VR,2000-01-01,ass_riconosciuta,non compilato,0,0,no,Albaredo d'Adige,21,,,1,0,0,0,0
+162,associazione,VI,2010,ass_riconosciuta,diploma,2,2,no,Vicenza,11,,,0,1,0,0,1
+163,associazione,VR,2015-10-01,ass_riconosciuta,non compilato,0,0,no,Albaredo d'Adige,6,,,1,0,0,0,0
+164,individuo,TV,1976-09-01,partita_iva,laurea_II,,,no,Conegliano,45,,,0,1,0,1,0
+165,associazione,PD,1966-10-23,fondazione,non compilato,0,31,no,Padova,55,,,0,1,0,0,0
+166,individuo,TV,1964-03-04,contr_tempo_indeterminato,diploma,,,pa,Castelfranco Veneto,57,100,85,1,0,0,0,1
+167,individuo,BL,1987-10-12,partita_iva,diploma,,,servizi,Feltre,34,10,60,0,0,0,1,0
+168,associazione,VR,2014-12-04,impresa_sociale,non compilato,0,4,no,Verona,7,,,1,0,0,0,0
+169,associazione,PD,2014-09-10,ass_riconosciuta,non compilato,20,0,no,Cadoneghe,7,,,0,1,0,0,0
+170,individuo,VE,1982-11-24,partita_iva,laurea_I,,,no,Venezia,39,,,0,1,0,0,1
+171,associazione,TV,1981-03-09,ass_non_riconosciuta,non compilato,10,0,servizi,Treviso,40,0,35,0,0,0,1,0
+172,individuo,BL,1980-06-04,prest_occasionale,laurea_II,,,professionista,Cencenighe Agordino,41,40,55,0,0,0,0,1
+173,associazione,PD,2020-11-11,ass_non_riconosciuta,non compilato,0,1,no,Baone,1,,,1,0,0,0,0
+174,individuo,VE,1991-01-10,prest_occasionale,laurea_II,,,no,Venezia,30,,,1,1,0,0,1
+175,individuo,VE,1984-07-12,prest_occasionale,laurea_II,,,professionista,Venezia,37,90,50,0,1,0,1,1
+176,individuo,VI,1966-05-23,socio_coop,laurea_I,,,no,Malo,55,,,0,1,0,0,0
+177,individuo,PD,1995-08-07,socio_coop,diploma,,,professionista,Cadoneghe,26,100,100,0,0,1,0,0
+178,individuo,PD,1981-09-14,partita_iva,diploma,,,servizi,Polverara,40,100,100,0,0,1,0,0
+179,individuo,PD,1987-04-10,prest_occasionale,diploma,,,no,Padova,34,,,0,0,1,0,0
+180,individuo,VE,17/05/1966,partita_iva,diploma,,,professionista,Marcon,55,20,80,1,0,0,0,0
+181,associazione,VR,2014-05-16,ass_non_riconosciuta,non compilato,7,2,no,Verona,7,,,1,1,1,1,1
+182,associazione,VE,1986-03-06,onlus,non compilato,10,1,no,Venezia,35,,,1,0,0,0,0
+183,individuo,PD,1977-05-21,prest_occasionale,laurea_I,,,no,Padova,44,,,0,0,0,0,1
+184,associazione,TV,2002-07-01,ass_non_riconosciuta,non compilato,0,0,no,Vittorio Veneto,19,,,1,0,0,0,0
+185,individuo,VR,1987-02-28,co_co_co,laurea_I,,,servizi,Sant'Ambrogio di Valpolicella,34,12,22,1,1,0,0,1
+186,individuo,VE,1991-04-28,partita_iva,laurea_II,,,professionista,Venezia,30,70,70,0,0,0,0,1
+187,individuo,VI,1989,prest_occasionale,diploma,,,no,Thiene,32,,,0,1,0,0,1
+188,individuo,VI,1959-02-16,contr_tempo_indeterminato,laurea_II,,,no,Brogliano,62,,,0,0,0,0,1
+189,associazione,RO,1986-07-18,ass_riconosciuta,non compilato,13,1,no,Rovigo,35,,,0,1,0,0,0
+190,individuo,PD,2020-11-23,socio_coop,diploma,,,no,Curtarolo,1,,,0,0,1,0,0
+191,individuo,PD,14 maggio 1985,prest_occasionale,diploma,,,no,Ponte San Nicolò,36,,,0,1,0,0,1
+192,individuo,VE,1989-05-24,partita_iva,diploma,,,no,Mira,32,,,0,1,0,0,1
+193,associazione,VI,2010-04-25,ass_non_riconosciuta,non compilato,6,0,no,Valdagno,11,,,1,1,0,1,1
+194,individuo,VI,1985-12-08,socio_coop,laurea_I,,,no,Vicenza,36,,,0,1,1,0,0
+195,associazione,VR,2008-05-25,ass_non_riconosciuta,non compilato,6,0,no,Verona,13,,,1,1,0,0,1
+196,individuo,VR,13/04/97,prest_occasionale,laurea_I,,,no,Verona,24,,,0,0,1,0,0
+197,individuo,VR,1983-02-28,prest_occasionale,diploma,,,servizi,Verona,38,50,20,0,1,0,0,0
+198,associazione,VI,2017-09-18,ass_riconosciuta,non compilato,0,4,no,Vicenza,4,,,0,0,0,0,1
+199,associazione,VE,2017-03-17,ass_non_riconosciuta,non compilato,0,0,no,Caorle,4,,,1,0,0,0,0
+200,individuo,TV,07-05-1959,prest_occasionale,diploma,,,no,Casale sul Sile,62,,,1,1,0,0,1
+201,individuo,VI,1993-05-01,prest_occasionale,laurea_II,,,no,Camisano Vicentino,28,,,1,0,0,0,0
+202,associazione,VR,1998-04-29,ass_non_riconosciuta,non compilato,1,0,no,Villafranca di Verona,23,,,1,1,0,0,0
+203,individuo,TV,1973-11-27,partita_iva,laurea_II,,,no,Asolo,48,,,0,1,0,0,0
+204,associazione,VI,2014-03-27,ass_non_riconosciuta,non compilato,10,1,no,Montecchio Maggiore,7,,,0,1,0,0,0
+205,individuo,BL,1978-08-13,partita_iva,diploma,,,no,Feltre,43,,,0,1,0,0,1
+206,individuo,TV,17/06/1983,socio_coop,laurea_II,,,no,Treviso,38,,,0,1,0,0,1
+207,associazione,VI,2011,ass_non_riconosciuta,non compilato,0,0,no,Vicenza,10,,,0,0,0,1,0
+208,associazione,VE,1989-02-02,ass_riconosciuta,non compilato,0,0,no,Venezia,32,,,1,0,0,0,0
+209,individuo,BL,1982-05-31,partita_iva,laurea_I,,,no,Sospirolo,39,,,0,1,0,0,1
+210,individuo,VI,1995-09-15,socio_coop,laurea_I,,,servizi,Schio,26,67,50,1,1,0,0,0
+211,associazione,TV,2008-11-03,soc_scopo_lucro,non compilato,20,3,no,Preganziol,13,,,0,1,0,0,0
+212,individuo,VR,1973-12-15,socio_coop,laurea_II,,,no,Verona,48,,,1,0,0,0,0
+213,individuo,VR,1987-01-12,socio_coop,diploma,,,no,San Giovanni Lupatoto,34,,,0,1,0,1,1
+214,associazione,PD,2014-06-24,impresa_sociale,non compilato,10,1,no,Padova,7,,,0,1,0,0,0
+215,associazione,PD,2014-04-24,impresa_sociale,non compilato,3,1,no,Padova,7,,,0,0,0,0,1
+216,associazione,VR,2001-04-11,fondazione,non compilato,0,3,no,Legnago,20,,,1,0,0,0,0
+217,associazione,VR,2016-01-05,ass_riconosciuta,non compilato,1,2,no,Verona,5,,,1,1,0,0,1
+218,associazione,TV,1987-01-01,soc_scopo_lucro,non compilato,2,2,no,Mogliano Veneto,34,,,1,0,1,1,0
+219,associazione,PD,1988-03-10,ass_non_riconosciuta,non compilato,0,0,no,Vigonza,33,,,0,1,0,0,0
+220,individuo,PD,2020-12-19,contr_tempo_indeterminato,diploma,,,scuola,Ponte San Nicolò,1,0,29,0,1,0,0,1
+221,associazione,PD,1996-12-10,ass_non_riconosciuta,non compilato,20,0,no,Padova,25,,,0,1,0,0,0
+222,associazione,PD,2002-02-21,ass_non_riconosciuta,non compilato,0,0,no,Bagnoli di Sopra,19,,,1,1,0,0,1
+223,individuo,VE,1943-08-04,prest_occasionale,laurea_II,,,no,Venezia,78,,,0,1,0,0,0
+224,associazione,VR,2012-11-27,ass_non_riconosciuta,non compilato,7,0,no,Verona,9,,,0,1,0,0,0
+225,associazione,PD,1981-03-16,ass_non_riconosciuta,non compilato,0,0,no,Saonara,40,,,0,1,0,0,0
+226,individuo,VE,1958-11-29,partita_iva,diploma,,,professionista,Camponogara,63,10,30,0,0,0,0,1
+227,individuo,VE,1974-07-24,partita_iva,diploma,,,professionista,Venezia,47,40,90,0,1,0,0,0
+228,individuo,TV,1985-12-26,partita_iva,laurea_II,,,no,Treviso,36,,,1,0,0,0,0
+229,associazione,VE,1988,ass_non_riconosciuta,non compilato,0,0,no,Salzano,33,,,1,1,0,0,0
+230,individuo,VE,1947-10-08,socio_coop,diploma,,,no,Chioggia,74,,,0,1,0,0,0
+231,individuo,PD,1972-10-30,socio_coop,master_phd,,,professionista,Padova,49,31,42,0,1,0,0,0
+232,individuo,VR,1989-08-08,partita_iva,laurea_II,,,scuola,Lavagno,32,11,53,0,0,0,0,1
+233,associazione,TV,1996-06-10,ass_riconosciuta,diploma,20,2,no,Treviso,25,,,1,1,0,0,1
+234,associazione,VE,1951-04-20,onlus,non compilato,0,44,no,Venezia,70,,,1,0,0,0,0
+235,individuo,VI,1961-05-29,socio_coop,diploma,,,no,Vicenza,60,,,0,0,1,0,0
+236,associazione,RO,2019-01-16,ass_non_riconosciuta,non compilato,0,1,no,Lendinara,2,,,1,1,0,1,1
+237,associazione,VE,1980-01-01,ass_riconosciuta,non compilato,0,0,no,San Donà di Piave,41,,,0,0,0,0,1
+238,individuo,PD,1993-01-11,prest_occasionale,diploma,,,professionista,Padova,28,71,85,1,1,0,0,1
+239,individuo,PD,1975-09-01,co_co_co,master_phd,,,servizi,Padova,46,0,0,0,0,0,1,0
+240,individuo,TV,2020-05-03,prest_occasionale,master_phd,,,no,Preganziol,1,,,1,0,0,1,1
+241,associazione,VI,2001-09-21,ass_non_riconosciuta,laurea_II,0,4,no,Vicenza,20,,,1,1,0,0,1
+242,individuo,VE,1991-10-26,prest_occasionale,master_phd,,,no,Santa Maria di Sala,30,,,1,1,0,0,0
+243,individuo,VE,1982-10-18,socio_coop,laurea_II,,,no,Venezia,39,,,0,1,0,0,0
+244,individuo,TV,1982-06-11,socio_coop,laurea_II,,,professionista,Villorba,39,63,80,0,1,0,0,0
+245,individuo,VE,1979-06-28,partita_iva,laurea_II,,,pa,Venezia,42,49,49,0,1,0,0,1
+246,associazione,VE,2015-03-01,ass_non_riconosciuta,non compilato,0,0,no,Venezia,6,,,1,0,1,1,0
+247,individuo,VR,1966-05-09,contr_tempo_indeterminato,diploma,,,no,San Pietro in Cariano,55,,,0,1,0,0,0
+248,individuo,TV,1991-07-31,socio_coop,laurea_I,,,no,Castelfranco Veneto,30,,,0,0,1,0,0
+249,individuo,VE,1982-01-12,socio_coop,diploma,,,no,Mirano,39,,,1,0,1,1,1
+250,individuo,VI,1964-12-10,prest_occasionale,diploma,,,servizi,Asiago,57,22,83,1,0,1,0,0
+251,individuo,PD,1989-05-03,contr_tempo_indeterminato,laurea_II,,,no,Padova,32,,,1,0,1,0,0
+252,associazione,VI,1982-10-09,ass_non_riconosciuta,non compilato,52,0,no,Vicenza,39,,,1,0,1,1,1
+253,individuo,BL,12/11/1971,partita_iva,master_phd,,,scuola,Sedico,50,70,70,1,0,0,0,1
+254,individuo,VE,2018-05-20,partita_iva,diploma,,,no,Venezia,3,,,0,1,0,0,0
+255,individuo,TV,1979-06-03,contr_tempo_indeterminato,laurea_I,,,no,Treviso,42,,,0,1,0,0,0
+256,associazione,VI,2018-11-30,ass_non_riconosciuta,non compilato,0,0,professionista,Marano Vicentino,3,0,30,0,0,0,0,1
+257,associazione,VE,2013-03-13,ass_non_riconosciuta,non compilato,6,0,no,Venezia,8,,,0,1,0,0,0
+258,individuo,TV,1955-01-14,prest_occasionale,diploma,,,scuola,Paese,66,0,50,0,1,0,0,0
+259,associazione,PD,1978-01-02,ass_riconosciuta,laurea_II,0,0,servizi,Selvazzano Dentro,43,100,60,0,1,0,0,0
+260,associazione,TV,1996-02-05,ass_non_riconosciuta,non compilato,0,0,no,Roncade,25,,,0,1,0,0,1
+261,associazione,RO,1957-03-27,ass_riconosciuta,non compilato,0,0,no,Polesella,64,,,0,1,0,0,0
+262,associazione,TV,2017-01-01,ass_riconosciuta,non compilato,14,0,no,Treviso,4,,,1,0,0,0,1
+263,associazione,VI,1990-01-01,ass_non_riconosciuta,non compilato,0,0,no,Vicenza,31,,,0,0,0,1,0
+264,associazione,TV,1993-06-29,ass_non_riconosciuta,non compilato,0,1,no,Asolo,28,,,1,0,0,0,1
+265,associazione,VE,2004-02-21,ass_non_riconosciuta,non compilato,10,1,no,San Michele al Tagliamento,17,,,1,1,0,0,1
+266,associazione,VE,2007,ass_riconosciuta,non compilato,0,0,no,Pianiga,14,,,1,1,1,1,1
+267,associazione,VI,2016-01-11,ass_riconosciuta,non compilato,0,0,manifatturiero,Marano Vicentino,5,1,25,0,1,0,0,0
+268,individuo,PD,1984-01-07,co_co_co,laurea_I,,,no,Padova,37,,,0,1,0,0,0
+269,associazione,VE,1993-01-06,ass_riconosciuta,non compilato,0,0,no,Caorle,28,,,1,1,1,0,0
+270,individuo,VR,1982-04-09,socio_coop,laurea_I,,,no,Legnago,39,,,0,0,1,0,0
+271,individuo,VR,1977-05-14,socio_coop,diploma,,,no,Verona,44,,,0,0,1,0,0
+272,individuo,VE,1982-08-18,prest_occasionale,laurea_I,,,no,Venezia,39,,,0,0,1,0,0
+273,associazione,VR,2018-08-08,soc_scopo_lucro,non compilato,60,3,no,Verona,3,,,1,0,1,0,0
+274,individuo,BL,1964-11-25,socio_coop,diploma,,,servizi,Pieve di Cadore,57,5,14,0,1,0,0,0
+275,individuo,PD,1986-09-14,socio_coop,diploma,,,no,Saonara,35,,,0,0,1,0,0
+276,associazione,TV,1990-02-28,ass_non_riconosciuta,non compilato,0,0,no,Montebelluna,31,,,0,1,0,0,1
+277,individuo,VR,1985-01-18,socio_coop,laurea_I,,,no,Soave,36,,,0,0,1,0,0
+278,individuo,VI,1966-02-18,socio_coop,diploma,,,no,Vicenza,55,,,0,0,1,0,0
+279,individuo,VE,2020-04-20,socio_coop,laurea_I,,,no,Salzano,1,,,0,0,1,0,0
+280,individuo,VE,1978-09-06,socio_coop,diploma,,,no,Venezia,43,,,0,0,1,0,0
+281,individuo,VE,1997-01-19,socio_coop,diploma,,,no,Jesolo,24,,,1,0,1,1,1
+282,individuo,PD,1973-02-21,socio_coop,diploma,,,no,Baone,48,,,0,0,1,0,0
+283,individuo,PD,1986-04-21,socio_coop,diploma,,,servizi,Padova,35,90,90,0,0,1,0,0
+284,individuo,VI,1986-11-26,partita_iva,laurea_II,,,no,Vicenza,35,,,1,1,0,1,1
+285,individuo,VR,1984-11-04,co_co_co,diploma,,,no,Negrar di Valpolicella,37,,,0,0,1,0,0
+286,individuo,TV,1953-07-07,socio_coop,diploma,,,no,Quinto di Treviso,68,,,0,1,0,0,0
+287,individuo,VR,24/07/1972,socio_coop,diploma,,,no,Caldiero,49,,,0,0,1,0,0
+288,associazione,RO,2005-04-01,ass_non_riconosciuta,non compilato,0,0,no,Rovigo,16,,,1,0,0,0,0
+289,individuo,VR,1978-05-29,socio_coop,laurea_I,,,no,Legnago,43,,,0,1,0,0,1
+290,individuo,PD,05/10/1978,socio_coop,diploma,,,no,Montegrotto Terme,43,,,0,1,0,0,0
+291,individuo,TV,1962-04-25,socio_coop,diploma,,,servizi,Maserada sul Piave,59,100,100,0,0,1,0,0
+292,individuo,RO,1970-01-11,socio_coop,diploma,,,servizi,Adria,51,100,30,0,1,0,0,0
+293,individuo,VE,1959-11-05,socio_coop,diploma,,,no,Venezia,62,,,0,0,1,0,0
+294,individuo,TV,1977-04-24,socio_coop,diploma,,,no,Mogliano Veneto,44,,,0,0,1,0,0
+295,individuo,VE,2020-12-29,socio_coop,diploma,,,no,Mirano,1,,,1,0,0,0,1
+296,individuo,TV,1975-01-30,socio_coop,laurea_I,,,no,Treviso,46,,,1,0,0,1,0
+297,individuo,VI,1977-07-09,prest_occasionale,diploma,,,professionista,Schio,44,100,0,0,1,0,0,0
+298,associazione,TV,2010-09-01,ass_riconosciuta,non compilato,0,20,no,San Vendemiano,11,,,0,1,0,0,1
+299,individuo,PD,1990-10-26,socio_coop,diploma,,,no,Abano Terme,31,,,0,0,1,0,0
+300,individuo,TV,1976-12-28,prest_occasionale,laurea_I,,,scuola,Treviso,45,63,41,0,1,0,0,0
+301,individuo,VE,24/12/1976,socio_coop,diploma,,,no,Salzano,45,,,0,0,1,0,0
+302,individuo,VE,1965-05-30,socio_coop,diploma,,,no,Venezia,56,,,0,0,1,0,0
+303,individuo,VE,1966-01-22,socio_coop,laurea_II,,,no,Venezia,55,,,0,1,0,0,1
+304,individuo,VR,1979-08-21,socio_coop,laurea_II,,,scuola,Valeggio sul Mincio,42,100,83,0,0,0,0,1
+305,associazione,RO,2009-05-07,ass_riconosciuta,non compilato,0,0,no,Porto Tolle,12,,,1,0,0,0,1
+306,individuo,TV,1985-10-01,socio_coop,laurea_II,,,servizi,Casale sul Sile,36,80,70,1,0,0,0,0
+307,associazione,VI,2003-02-10,ass_riconosciuta,non compilato,0,0,no,Schio,18,,,0,1,0,0,0
+308,individuo,TV,1976-03-02,socio_coop,laurea_I,,,no,Crocetta del Montello,45,,,0,1,0,0,0
+309,associazione,VI,1992-09-10,ass_riconosciuta,non compilato,0,0,no,Bassano del Grappa,29,,,1,1,0,1,1
+310,individuo,TV,1973-04-17,socio_coop,laurea_I,,,no,Roncade,48,,,0,1,0,0,0
+311,individuo,VE,1977-05-22,socio_coop,laurea_I,,,no,Venezia,44,,,0,1,0,0,1
+312,associazione,PD,2005-07-12,ass_non_riconosciuta,non compilato,0,0,no,Trebaseleghe,16,,,0,1,0,0,0
+313,individuo,VE,17-12-1966,partita_iva,laurea_I,,,no,Venezia,55,,,1,0,0,0,0
+314,individuo,VE,1986-03-02,socio_coop,laurea_I,,,no,Pianiga,35,,,0,1,0,0,0
+315,individuo,PD,1961-03-28,socio_coop,diploma,,,professionista,Padova,60,50,60,0,1,0,0,1
+316,associazione,VE,2013-11-12,ass_non_riconosciuta,non compilato,0,0,no,Venezia,8,,,1,0,0,0,0
+317,individuo,VE,1983-03-07,socio_coop,diploma,,,servizi,Venezia,38,48,42,0,1,0,1,1
+318,individuo,VR,1986-03-18,partita_iva,master_phd,,,no,Monteforte d'Alpone,35,,,1,1,0,0,1
+319,individuo,VR,1961-04-24,socio_coop,laurea_I,,,no,Cazzano di Tramigna,60,,,0,1,0,0,0
+320,individuo,TV,1980-09-30,prest_occasionale,laurea_II,,,professionista,Santa Lucia di Piave,41,95,90,0,1,0,0,0
+321,associazione,VI,2020-08-18,ass_riconosciuta,non compilato,0,8,no,Montegaldella,1,,,0,1,0,0,1
+322,individuo,VR,10/10/74,partita_iva,laurea_I,,,no,Verona,47,,,0,1,0,0,0
+323,associazione,RO,1991-11-14,ass_riconosciuta,non compilato,0,0,no,Adria,30,,,0,1,0,1,1
+324,individuo,VE,1979-10-23,socio_coop,master_phd,,,no,Venezia,42,,,1,1,0,0,0
+325,individuo,TV,2020-12-30,socio_coop,laurea_I,,,no,Quinto di Treviso,1,,,0,0,1,0,0
+326,individuo,VR,1973-07-17,socio_coop,laurea_I,,,no,Sona,48,,,0,1,0,0,0
+327,individuo,VI,1985-06-22,socio_coop,diploma,,,professionista,Torri di Quartesolo,36,0,0,0,1,0,0,0
+328,individuo,VE,1986-01-18,partita_iva,laurea_I,,,professionista,Venezia,35,50,70,0,1,0,0,0
+329,individuo,TV,1969-01-21,socio_coop,laurea_II,,,pa,Santa Lucia di Piave,52,40,30,0,1,0,0,1
+330,individuo,TV,04/12/1990,socio_coop,laurea_I,,,professionista,Oderzo,31,80,100,0,1,0,0,0
+331,individuo,PD,1959-06-08,socio_coop,diploma,,,professionista,Padova,62,100,90,0,0,1,0,0
+332,associazione,VR,1995-02-24,ass_non_riconosciuta,non compilato,0,0,no,Cavaion Veronese,26,,,1,1,0,0,1
+333,individuo,TV,1966-08-22,socio_coop,laurea_II,,,no,Follina,55,,,0,1,0,0,0
+334,associazione,RO,1977-02-12,ass_non_riconosciuta,non compilato,20,0,no,Arquà Polesine,44,,,1,1,0,0,1
+335,individuo,PD,13/09/1969,prest_occasionale,laurea_II,,,no,Padova,52,,,0,1,0,0,1
+336,individuo,VR,1998-05-26,socio_coop,laurea_II,,,no,Verona,23,,,0,1,0,0,0
+337,associazione,VI,2001-04-01,ass_riconosciuta,non compilato,25,0,no,Torri di Quartesolo,20,,,0,1,0,0,0
+338,individuo,PD,1974-11-01,socio_coop,laurea_I,,,no,Albignasego,47,,,0,1,1,0,1
+339,individuo,PD,1974-01-06,socio_coop,master_phd,,,no,Padova,47,,,0,0,1,0,0
+340,individuo,VE,1971-01-01,partita_iva,laurea_II,,,no,Martellago,50,,,0,0,1,0,0
+341,individuo,TV,1968-12-14,partita_iva,laurea_II,,,no,Treviso,53,,,0,1,0,0,0
+342,individuo,VE,1962-07-21,partita_iva,laurea_II,,,no,Venezia,59,,,0,1,0,0,0
+343,individuo,VR,27/03/1964,socio_coop,diploma,,,no,Verona,57,,,0,0,1,0,0
+344,individuo,PD,1999-01-25,socio_coop,diploma,,,no,Vigonza,22,,,0,0,1,0,0
+345,associazione,RO,2002-12-24,onlus,non compilato,0,0,no,Lusia,19,,,1,1,0,0,1
+346,associazione,VE,2014,ass_non_riconosciuta,non compilato,15,0,no,Venezia,7,,,1,0,0,1,1
+347,individuo,VE,12/07/1095,co_co_co,laurea_II,,,no,Venezia,26,,,0,1,0,0,0
+348,individuo,VI,1956-07-19,contr_tempo_indeterminato,diploma,,,manifatturiero,Vicenza,65,100,0,0,1,0,0,0
+349,individuo,VR,1970-04-12,socio_coop,diploma,,,no,Zevio,51,,,0,0,1,0,0
+350,individuo,TV,1989-04-15,prest_occasionale,laurea_I,,,no,San Biagio di Callalta,32,,,0,1,0,0,1
+351,individuo,PD,1954-09-21,socio_coop,diploma,,,no,Padova,67,,,0,1,0,0,0
+352,individuo,TV,1966-11-30,socio_coop,diploma,,,servizi,Treviso,55,100,90,0,1,0,0,0
+353,individuo,TV,1985-11-18,socio_coop,laurea_I,,,no,Farra di Soligo,36,,,0,1,0,0,0
+354,individuo,PD,4/3/1971,socio_coop,diploma,,,no,Padova,50,,,0,0,1,0,0
+355,associazione,PD,1997-06-09,ass_riconosciuta,non compilato,3,0,no,Piove di Sacco,24,,,1,0,0,0,0
+356,individuo,VE,1962-07-30,socio_coop,laurea_II,,,no,Venezia,59,,,0,1,0,0,1
+357,associazione,PD,1969-08-26,ass_riconosciuta,non compilato,20,1,no,Cadoneghe,52,,,0,1,0,0,0
+358,individuo,RO,11101970,socio_coop,diploma,,,no,Rovigo,51,,,0,0,1,0,0
+359,individuo,PD,1962-03-25,socio_coop,laurea_II,,,professionista,Noventa Padovana,59,21,25,0,0,1,0,0
+360,individuo,VR,1973-01-09,socio_coop,laurea_II,,,professionista,Marano di Valpolicella,48,100,80,0,1,0,0,0
+361,individuo,PD,1980-07-30,contr_tempo_indeterminato,diploma,,,servizi,Padova,41,88,81,0,0,1,0,0
+362,individuo,VI,1958-10-01,partita_iva,diploma,,,professionista,Montecchio Maggiore,63,100,90,0,0,1,0,0
+363,individuo,VE,1985-12-19,socio_coop,laurea_I,,,manifatturiero,Venezia,36,0,0,0,1,1,0,0
+364,individuo,TV,1982-10-22,socio_coop,laurea_II,,,no,Silea,39,,,0,0,1,0,0
+365,individuo,VR,1992-03-25,contr_tempo_indeterminato,laurea_I,,,servizi,Zevio,29,0,32,0,1,0,0,0
+366,individuo,PD,1995-10-01,socio_coop,laurea_II,,,scuola,Padova,26,70,70,0,1,0,0,1
+367,associazione,VR,1975-01-01,ass_riconosciuta,non compilato,0,0,no,Bovolone,46,,,1,0,0,0,0
+368,associazione,PD,1986-09-08,ente_religioso_riconosciuto,non compilato,0,0,no,Piove di Sacco,35,,,1,0,0,0,0
+369,associazione,VR,2000-03-23,ass_riconosciuta,non compilato,0,0,no,San Giovanni Ilarione,21,,,1,1,1,1,1
+370,associazione,VR,1917-11-04,ente_religioso_riconosciuto,non compilato,68,0,no,Verona,104,,,1,0,0,0,0
+371,individuo,VI,1976-10-15,socio_coop,laurea_I,,,professionista,Piovene Rocchette,45,100,63,0,1,0,0,0
+372,individuo,TV,1971-05-12,socio_coop,laurea_I,,,no,Conegliano,50,,,0,1,0,0,1
+373,associazione,PD,2005-11-02,ente_religioso_riconosciuto,non compilato,0,0,no,Montagnana,16,,,1,0,0,0,0
+374,individuo,VE,1958-10-20,socio_coop,diploma,,,professionista,Venezia,63,90,100,0,1,0,0,0
+375,individuo,VE,1964-07-07,partita_iva,laurea_II,,,no,Venezia,57,,,0,0,0,0,1
+376,individuo,VE,1963-01-22,partita_iva,laurea_II,,,professionista,Venezia,58,100,80,0,1,0,0,0
+377,individuo,VI,1973-02-08,prest_occasionale,laurea_II,,,manifatturiero,Altavilla Vicentina,48,100,90,1,0,0,0,0
+378,individuo,VE,1961-07-27,partita_iva,diploma,,,no,Venezia,60,,,1,0,0,0,0
+379,individuo,VE,1964-04-17,partita_iva,laurea_II,,,no,Venezia,57,,,1,0,0,0,0
+380,associazione,VI,1966-01-08,ente_religioso_riconosciuto,non compilato,0,0,no,Vicenza,55,,,1,0,0,0,0
+381,associazione,VR,1997-02-11,ass_non_riconosciuta,non compilato,0,5,no,Verona,24,,,1,0,0,0,1
+382,individuo,PD,10/10/1977,socio_coop,diploma,,,no,Limena,44,,,0,1,0,0,0
+383,associazione,VE,2005-03-05,ass_non_riconosciuta,non compilato,0,1,no,Venezia,16,,,1,0,0,0,1
+384,individuo,VR,1989-01-01,socio_coop,laurea_II,,,no,Verona,32,,,0,1,0,0,1
+385,individuo,VE,1971-12-16,partita_iva,laurea_II,,,no,Venezia,50,,,0,1,0,0,0
+386,associazione,TV,1998-06-29,ass_non_riconosciuta,non compilato,0,0,no,Vittorio Veneto,23,,,1,0,0,0,0
+387,associazione,PD,1959-07-10,ente_religioso_riconosciuto,non compilato,100,0,no,Campodarsego,62,,,1,0,0,0,0
+388,associazione,VR,2003-03-26,ass_riconosciuta,non compilato,0,0,no,Caprino Veronese,18,,,1,0,0,0,0
+389,associazione,TV,2020-05-04,ass_non_riconosciuta,non compilato,42,0,no,Montebelluna,1,,,1,0,0,0,0
+390,individuo,VE,1972-06-04,partita_iva,laurea_II,,,no,Venezia,49,,,0,1,0,0,1
+391,associazione,VE,2004,ass_non_riconosciuta,non compilato,0,0,no,Venezia,17,,,0,1,0,0,0
+392,individuo,VR,05/06/76,socio_coop,diploma,,,no,Verona,45,,,0,0,1,0,0
+393,associazione,VI,2017-11-08,ass_non_riconosciuta,non compilato,15,0,no,Dueville,4,,,1,1,1,0,0
+394,associazione,VE,1979-10-01,ass_riconosciuta,non compilato,0,0,no,Mirano,42,,,1,0,0,0,0
+395,associazione,BL,giugno 2020,impresa_sociale,non compilato,15,0,no,Fonzaso,1,,,1,0,0,0,1
+396,individuo,VE,1965-09-25,partita_iva,laurea_II,,,professionista,Venezia,56,90,62,0,1,0,0,0
